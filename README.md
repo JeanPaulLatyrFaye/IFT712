@@ -1,1 +1,1 @@
-# IFT712This project use six classifiers apply on the leaf classification
+This project use six classifiers apply on the leaf classification
